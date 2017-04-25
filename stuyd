@@ -1,0 +1,13 @@
+<xml version="1.0" standalone="yes"?>
+<class>
+	<student>
+		<name>Omer</name>
+		<grade name="math">100</grade>
+		<grade name="bible">100</grade>
+		<grade name="code">100</grade>
+		<grade name="english">100</grade>
+		<grade name="lol">100</grade>
+		
+	</student>
+	
+<class>
